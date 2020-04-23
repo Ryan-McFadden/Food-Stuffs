@@ -8,7 +8,7 @@ Install 'net/http', 'open-uri' and 'json'.
 
 ## Usage
 
-Run FoodStuffs. Afterwards it will display instructions on how to operate the program!
+Run 'food-stuffs' in the 'bin' folder. Afterwards it will display instructions on how to operate the program!
 
 ## License
 
